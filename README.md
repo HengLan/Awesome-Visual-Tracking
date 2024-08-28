@@ -14,7 +14,7 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 * #### How will this repository be maintained and update?
 
-
+## News
 
 ## Content
 
