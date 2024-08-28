@@ -13,8 +13,10 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 * #### How do you update this repository?
 
----
+<hr style="border: none; border-top: 1px solid #000;">
+
 ### Content
 
----
+<hr style="border: none; border-top: 1px solid #000;">
+
 ### Acknowledgements
