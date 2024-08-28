@@ -8,6 +8,8 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 * #### What will be included?
 
+* #### How is your repository different from others?
+
 * #### Where do you collect these tracking papers?
 
 * #### How do you update this repository?
