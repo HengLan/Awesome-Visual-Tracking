@@ -16,5 +16,4 @@ This repository aims to collect awesome visual tracking works, including algorit
 ### Content
 
 ---
-### 
-Acknowledgements
+### Acknowledgements
