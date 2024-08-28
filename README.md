@@ -4,15 +4,15 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 ## Regarding this repository
 
-* #### Why do you build this repository?
+* #### Why build this repository?
 
-* #### What will be included?
+* #### What will be included in this repository?
+
+* #### Where will you collect the tracking papers?
 
 * #### How is your repository different from others?
 
-* #### Where will you collect these tracking papers?
-
-* #### How is this repository maintained?
+* #### How will this repository be maintained and update?
 
 
 
