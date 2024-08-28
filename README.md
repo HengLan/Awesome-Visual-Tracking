@@ -1,7 +1,6 @@
 # Awesome-Visual-Tracking
 This repository aims to collect awesome visual tracking works, including algorithms and benchmarks. The goal is to provide a platform (like an informal review) for researchers to conveniently follow recently published and previous literature in the tracking community.
 
-<hr style="border: none; border-top: 0.5px solid #000;">
 
 ### Regarding this repository
 
@@ -13,10 +12,10 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 * #### How do you update this repository?
 
-<hr style="border: none; border-top: 1px solid #000;">
+
 
 ### Content
 
-<hr style="border: none; border-top: 1px solid #000;">
+
 
 ### Acknowledgements
