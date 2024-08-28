@@ -10,9 +10,9 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 * #### How is your repository different from others?
 
-* #### Where do you collect these tracking papers?
+* #### Where will you collect these tracking papers?
 
-* #### How do you update this repository?
+* #### How is this repository maintained?
 
 
 
