@@ -6,9 +6,11 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 * #### Why build this repository?
   
-  Visual tracking is a rapidly evolving field with a significant number of research papers proposed each year. To understand the most recent trends in visual tracking, we build this repository to collect the latest works (which are accepted or published; arXiv papers are not included now, but may be added later) so that researchers in this area can easily follow cutting-edge ideas and innovations in this community. 
+Visual tracking is a rapidly evolving field with a significant number of research papers proposed each year. To understand the most recent trends in visual tracking, we build this repository to collect the latest works (which are accepted or published; arXiv papers are not included now, but may be added later) so that researchers in this area can easily follow cutting-edge ideas and innovations in this community. 
 
 * #### What will be included in this repository?
+
+In this repository, we will focus on the bounding-box-based visual tracking, including single modality visual tracking (i.e., RGB tracking and LiDAR-based tracking) and multi-modality visual tracking (i.e., RGB-X tracking, with X being language/depth/event/thermal etc.)
 
 * #### Where will you collect the tracking papers?
 
