@@ -6,7 +6,7 @@ This repository aims to collect awesome visual tracking works, including algorit
 
 * #### Why build this repository?
   
-  Visual tracking 
+  Visual tracking is a fast-developing field with numerous papers proposed each year. To gain the most recent trend in visual tracking, we build this repository to collect the latest works (which are accepted or published) 
 
 * #### What will be included in this repository?
 
