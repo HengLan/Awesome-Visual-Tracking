@@ -20,7 +20,7 @@ With numerous papers published on visual tracking each year, it is (almost) impo
 
 * #### How will this repository be maintained and update?
 
-We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released.
+We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Updates
 
