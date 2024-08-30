@@ -14,7 +14,7 @@ In this repository, we will focus on the bounding-box-based visual tracking, inc
 
 * #### Where will you collect the tracking papers?
 
-With numerous papers published on visual tracking each year, it is (almost) impossible to collect all the papers in this field. Therefore, we will collect papers from major computer vision (e.g., CVPR/ICCV/ECCV) and machine learning (e.g., NeurIPS/ICLR/ICML) conferences because they usually represent the latest trends in the tracking community. 
+With numerous papers published on visual tracking each year, it is (almost) impossible to collect all the papers in this field. Hence, we will collect papers from major computer vision (e.g., CVPR/ICCV/ECCV) and machine learning (e.g., NeurIPS/ICLR/ICML) conferences because they usually represent the latest trends in the tracking community. 
 
 * #### How is your repository different from others?
 
