@@ -14,7 +14,7 @@ We will focus on the bounding-box-based visual tracking, including `single modal
 
 * #### Where will you collect the tracking papers?
 
-With numerous papers published on visual tracking each year, it is (almost) impossible to collect all the papers in this field. We will collect papers from major computer vision (e.g., CVPR/ICCV/ECCV) and machine learning (e.g., NeurIPS/ICLR/ICML) conferences or journals (e.g., IEEE T-PAMI and IJCV) because they usually represent the latest innovations in the tracking community. 
+With numerous papers published on visual tracking each year, it is (almost) impossible to collect all the papers in this field. We will collect papers from major computer vision (e.g., CVPR/ICCV/ECCV) and machine learning (e.g., NeurIPS/ICLR/ICML) conferences or journals (e.g., IEEE T-PAMI and IJCV) because they usually represent the latest innovations in the tracking community. But papers outside the aforementioned avenues might also be considered.
 
 * #### How is your repository different from others?
 
