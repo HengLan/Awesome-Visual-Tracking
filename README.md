@@ -1,5 +1,5 @@
 # Awesome-Visual-Tracking
-This repository aims to collect awesome visual tracking works, including algorithms and benchmarks. The goal is to provide a platform (like an informal review) for researchers to conveniently follow recently published as well as previous literature in the tracking community. Please note that, this repository focuses on the so-called single object tracking, including both 2D and 3D tracking tasks.
+This repository aims to collect awesome visual tracking works, including algorithms and benchmarks. The goal is to provide a platform (like an informal review) for researchers to conveniently follow recently published as well as previous literature in the tracking community. Please note that, this repository focuses on the so-called `single object tracking`, including both 2D and 3D tracking tasks.
 
 
 ## Regarding this repository
@@ -10,7 +10,7 @@ Visual tracking is a rapidly evolving field with a significant number of researc
 
 * #### What will be included in this repository?
 
-In this repository, we will focus on the bounding-box-based visual tracking, including single modality visual tracking (i.e., RGB tracking and LiDAR-based tracking) and multi-modality visual tracking (i.e., RGB-X tracking, with X being language/depth/event/thermal etc.)
+In this repository, we will focus on the bounding-box-based visual tracking, including `single modality visual tracking` (i.e., RGB tracking and LiDAR-based tracking) and `multi-modality visual tracking` (i.e., RGB-X tracking, with X being language/depth/event/thermal etc). Both tracking algorithm and benchmark papers will be collected.
 
 * #### Where will you collect the tracking papers?
 
