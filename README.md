@@ -18,7 +18,7 @@ With numerous papers published on visual tracking each year, it is (almost) impo
 
 * #### How is your repository different from others?
 
-There are already some excellent repositories related to visual tracking. This repository is slightly different in topics by including various single-object tracking settings and in organizations in which papers are collected based on topic with clear accesses to paper, code, and results.
+There are already some excellent repositories related to visual tracking. This repository is slightly different in topics by including various single-object tracking settings and in organizations in which papers are collected based on topics with clear accesses to paper, code, and results.
 
 * #### How will this repository be maintained and update?
 
