@@ -16,6 +16,8 @@ We will focus on the bounding-box-based visual tracking, including `single modal
 
 With numerous papers published on visual tracking each year, it is (almost) impossible to collect all the papers in this field. We will collect papers from major computer vision (e.g., CVPR/ICCV/ECCV) and machine learning (e.g., NeurIPS/ICLR/ICML) conferences or journals (e.g., IEEE T-PAMI and IJCV) because they usually represent the latest innovations in the tracking community. But please be noted that, papers outside the aforementioned avenues might also be considered.
 
+Considering that deep trackers started to show dominant results on benchmarks starting from 2015, we will include trackers published from 2015 to now.
+
 * #### How is your repository different from others?
 
 There are already some excellent repositories related to visual tracking. This repository is slightly different in topics by including various single-object tracking settings and in organizations in which papers are collected based on topics with clear accesses to paper, code, and results.
