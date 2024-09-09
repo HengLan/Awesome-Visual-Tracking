@@ -31,9 +31,9 @@ We aim to update this repository whenever we know papers accepted/published from
 
 * [RGB-X Tracking](#rgb-x-tracking-x-as-another-vision-modality-deptheventthermal)
 
-* [Vision-Language Tracking](#vision-language-tracking)
-
-* [Lidar-based 3D Object Tracking](#lidar-based-3d-object-tracking)
+- [Vision-Language Tracking](#vision-language-tracking)
+  
+- [Lidar-based 3D Object Tracking](#lidar-based-3d-object-tracking)
 
 Note: all papers are listed in the chronological order.
 
