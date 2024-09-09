@@ -27,9 +27,9 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Content
-- [Generic Tracking (or RGB-only Tracking)](#generic-tracking-or-rgb-only-tracking)
+- [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
   
-- [RGB-X Tracking (X as another vision modality: Depth/Event/Thermal ...)](#rgb-x-tracking-x-as-another-vision-modality-deptheventthermal)
+- [RGB-X Tracking](#rgb-x-tracking-x-as-another-vision-modality-deptheventthermal)
   
 - [Vision-Language Tracking](#vision-language-tracking)
   
@@ -46,7 +46,7 @@ Note: all papers are listed in the chronological order.
 
 * [**ECCV'2024**] Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking, Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning. [paper]
 
-#### `RGB-X Tracking (X as another vision modality: Depth/Event/Thermal ...)`
+#### `RGB-X Tracking (X as another vision modality)`
 
 #### `Vision-Language Tracking`
 * [**ECCV'2024**] SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild, Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. [paper] [[`Dataset`👍]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
