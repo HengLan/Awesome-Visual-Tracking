@@ -30,11 +30,9 @@ We aim to update this repository whenever we know papers accepted/published from
 Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
-
-* 
 * [**ECCV'2024**] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)
 * [**ECCV'2024**] Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking, Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning. [paper]
-* [**ECCV'2024**] Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou. [paper]
+* [**ECCV'2024**] Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou. [[`paper`]](https://arxiv.org/abs/2402.17976)
 
 #### `RGB-X Tracking (X as another vision modality: Depth/Event/Thermal ...)`
 
