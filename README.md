@@ -38,23 +38,21 @@ We aim to update this repository whenever we know papers accepted/published from
 Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
-* Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, <br>
-  Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling,<br>
-  **ECCV**, 2024.<br>
+* [**ECCV'2024**] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. <br>
   [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)<br>
   
   
-* Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks,<br>
+* [**ECCV'2024**] Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks,<br>
   Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou,<br>
   **ECCV**, 2024.<br>
    [[`paper`]](https://arxiv.org/abs/2402.17976)
 
-* Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers,<br>
+* [**ECCV'2024**] Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers,<br>
   Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu,<br>
   **ECCV**, 2024.<br>
   [[`paper`]](https://arxiv.org/pdf/2407.08394)
 
-* Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking,<br>
+* [**ECCV'2024**] Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking,<br>
   Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning,<br>
   **ECCV**, 2024.<br>
   [paper]
