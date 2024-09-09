@@ -32,7 +32,6 @@ Note: all papers are listed in the chronological order.
 #### `Generic Tracking (or RGB-only Tracking)`
 
 * [**ECCV'2024**] Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking, Jikai Zheng · Mingjiang Liang · Shaoli Huang · Jifeng Ning. [paper]
-  
 * [**ECCV'2024**] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)
 
 #### `RGB-X Tracking (X as another vision modality: Depth/Event/Thermal ...)`
@@ -42,4 +41,8 @@ Note: all papers are listed in the chronological order.
 
 #### `Lidar-based 3D Object Tracking`
 * [**ECCV'2024**] 3D Single-object Tracking in Point Clouds with High Temporal Variation, Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang. [[`paper`]](https://arxiv.org/pdf/2408.02049)
+## Acknowledgements
+* [**ECCV'2024**] Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training, Qiangqiang Wu, Yan Xia, Jia Wang, Antoni B Chan. [paper]
+
+
 ## Acknowledgements
