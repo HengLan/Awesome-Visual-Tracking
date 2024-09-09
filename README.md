@@ -57,6 +57,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking***", Fei Xie, Zhongdao Wang, and Chao Ma. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) [[`Code`👍]](https://github.com/VISION-SJTU/DiffusionTrack)
 
+* [**CVPR'2024**] ***"ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe***", Yifan Bai, Zeyang Zhao, Yihong Gong, and Xing Wei. [[`paper`]](https://arxiv.org/abs/2312.17133) [[`Code`👍]](https://github.com/MIV-XJTU/ARTrack)
+
 
 
 
