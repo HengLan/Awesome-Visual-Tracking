@@ -1,7 +1,7 @@
 # Awesome-Visual-Tracking
 This repository aims to collect awesome visual tracking works, including algorithms and benchmarks. The goal is to provide a platform (like an informal review) for researchers to conveniently follow recently published as well as previous literature in the tracking community. Please note that, this repository focuses on the so-called `single object tracking`, including both 2D and 3D tracking tasks, and other tracking tasks such as multi-object tracking and point tracking is beyong the goal of this repository.
 
-$${\color{red}Red}$$
+$${\color{red}\text{Red}}$$
 
 ## Regarding this repository
 
