@@ -39,7 +39,7 @@ Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
   
-* [**ECCV'2024**] <font color=#FF000 >red</font> "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks", Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou.<br>
+* [**ECCV'2024**] ***"Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks"***, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou.<br>
   [[`paper`]](https://arxiv.org/abs/2402.17976)
 
 * [**ECCV'2024**] Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers, Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu. <br>
