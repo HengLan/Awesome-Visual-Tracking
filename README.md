@@ -29,7 +29,7 @@ Note: all papers are listed in the chronological order.
 
 ### Generic Tracking (or RGB-only Tracking)
 
-### RGB-X Tracking (Vision-language, RGB+Depth, RGB+Event, and RGB+Thermal Tracking)
+### RGB-X Tracking (X is another vision modality: Depth, Event, Thermal, etc)
 
 
 ## Acknowledgements
