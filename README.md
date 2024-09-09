@@ -29,7 +29,7 @@ We aim to update this repository whenever we know papers accepted/published from
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
   
-- [RGB-X Tracking](#rgb-x-tracking-x-as-another-vision-modality-deptheventthermal)
+- [RGB-X Tracking](#rgb-x-tracking-x-as-another-vision-modality)
   
 - [Vision-Language Tracking](#vision-language-tracking)
   
