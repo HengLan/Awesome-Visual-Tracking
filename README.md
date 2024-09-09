@@ -56,6 +56,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"HIPTrack: Visual Tracking with Historical Prompts***", Wenrui Cai, Qingjie Liu, and Yunhong Wang. [[`paper`]](https://arxiv.org/abs/2311.02072) [[`Code`👍]](https://github.com/WenRuiCai/HIPTrack)
 
+* [**CVPR'2024**] ***"DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking***", Fei Xie, Zhongdao Wang, and Chao Ma. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) [[`Code`👍]](https://github.com/VISION-SJTU/DiffusionTrack)
+
 
 
 
@@ -66,6 +68,10 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"Single-Model and Any-Modality for Video Object Tracking***", Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, and Rongrong Ji. [[`paper`]](https://arxiv.org/abs/2311.15851)
 
+* [**CVPR'2024**] ***"SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking***", Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, and Yong Liu. [[`paper`]](https://arxiv.org/abs/2403.16002) [[`Code`👍]](https://github.com/hoqolo/SDSTrack)
+
+* [**CVPR'2024**] ***"Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline***", Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, and Jin Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, and Yong Liu. [[`paper`]](https://arxiv.org/abs/2309.14611) [[`Code and Dataset`👍]](https://github.com/Event-AHU/EventVOT_Benchmark)
+
 
 
 
@@ -74,6 +80,9 @@ Note: all papers are listed in the chronological order.
 
 * [**ECCV'2024**] ***"SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild***", Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. 
   [paper] [[`Dataset`👍]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
+
+* [**CVPR'2024**] ***"Context-Aware Integration of Language and Visual References for Natural Language Tracking***", Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, and Jiming Chen. 
+  [[`paper`]](https://arxiv.org/abs/2403.19975)
 
 
 
