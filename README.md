@@ -53,7 +53,7 @@ Note: all papers are listed in the chronological order.
 
 #### `Lidar-based 3D Object Tracking`
 * [**ECCV'2024**] 3D Single-object Tracking in Point Clouds with High Temporal Variation, Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, and Jiaqi Yang. [[`paper`]](https://arxiv.org/pdf/2408.02049)
-## Acknowledgements
+
 * [**ECCV'2024**] Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training, Qiangqiang Wu, Yan Xia, Jia Wang, and Antoni B Chan. [paper]
 
 
