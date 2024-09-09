@@ -36,15 +36,17 @@ Note: all papers are listed in the chronological order.
   
 * [**ECCV'2024**] Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou. [[`paper`]](https://arxiv.org/abs/2402.17976)
 
+* [**ECCV'2024**] Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers, Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu. [[`paper`]](https://arxiv.org/pdf/2407.08394)
+
 #### `RGB-X Tracking (X as another vision modality: Depth/Event/Thermal ...)`
 
 #### `Vision-Language Tracking`
-* [**ECCV'2024**] SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild, Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, Jun Liu. [paper] [[`Dataset`👍]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
+* [**ECCV'2024**] SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild, Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. [paper] [[`Dataset`👍]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
 
 #### `Lidar-based 3D Object Tracking`
-* [**ECCV'2024**] 3D Single-object Tracking in Point Clouds with High Temporal Variation, Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang. [[`paper`]](https://arxiv.org/pdf/2408.02049)
+* [**ECCV'2024**] 3D Single-object Tracking in Point Clouds with High Temporal Variation, Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, and Jiaqi Yang. [[`paper`]](https://arxiv.org/pdf/2408.02049)
 ## Acknowledgements
-* [**ECCV'2024**] Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training, Qiangqiang Wu, Yan Xia, Jia Wang, Antoni B Chan. [paper]
+* [**ECCV'2024**] Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training, Qiangqiang Wu, Yan Xia, Jia Wang, and Antoni B Chan. [paper]
 
 
 ## Acknowledgements
