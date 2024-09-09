@@ -45,7 +45,9 @@ Note: all papers are listed in the chronological order.
 
 * [**ECCV'2024**] ***"Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking***", Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning. [paper]
 
-* [**ECCV'2024**] ***"Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance***", Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)<br>
+* [**ECCV'2024**] ***"Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance***", Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)
+
+* [**ICML'2024**] ***"Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking***", Yongxin Li, Mengyuan Liu, You Wu, Xucheng Wang, Xiangyang Yang, and Shuiwang Li. [[`paper`]](https://proceedings.mlr.press/v235/li24ax.html) [[`Code`👍]](https://github.com/wuyou3474/AVTrack)
 
 #### `RGB-X Tracking (X as another vision modality)`
 
