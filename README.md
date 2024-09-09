@@ -31,5 +31,9 @@ Note: all papers are listed in the chronological order.
 
 ### RGB-X Tracking (X is another vision modality: Depth, Event, Thermal, etc)
 
+### Vision-Language Tracking
+
+### Lidar-based 3D Object Tracking
+
 
 ## Acknowledgements
