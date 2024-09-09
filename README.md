@@ -30,7 +30,7 @@ We aim to update this repository whenever we know papers accepted/published from
 Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
-* [**ECCV'2024**] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[:point_right: `paper`]](https://arxiv.org/abs/2403.05231) [`Code`](https://github.com/LitingLin/LoRAT) [[`Result`]](https://drive.google.com/drive/folders/1zWlWfpWwBoomaRFNt7rTJlr6UsxfYU1T)
+* [**ECCV'2024**] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[👉`paper`]](https://arxiv.org/abs/2403.05231) [`Code`](https://github.com/LitingLin/LoRAT) [[`Result`]](https://drive.google.com/drive/folders/1zWlWfpWwBoomaRFNt7rTJlr6UsxfYU1T)
 
 #### `RGB-X Tracking (X as another vision modality: Depth/Event/Thermal ...)`
 
