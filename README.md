@@ -40,8 +40,9 @@ Note: all papers are listed in the chronological order.
 #### `Generic Tracking (or RGB-only Tracking)`
 * Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance. <br>
   Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling.<br>
+  **ECCV, 2024**
   [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)<br>
-  [**ECCV'2024**] 
+  
   
 * [**ECCV'2024**] Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou. [[`paper`]](https://arxiv.org/abs/2402.17976)
 
