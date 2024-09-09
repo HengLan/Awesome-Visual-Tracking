@@ -27,7 +27,7 @@ We aim to update this repository whenever we know papers accepted/published from
 ## Content
 Note: all papers are listed in the chronological order.
 
-#### Generic Tracking (or RGB-only Tracking)
+#### `Generic Tracking (or RGB-only Tracking)`
 
 #### RGB-X Tracking (X is another vision modality: Depth, Event, Thermal, etc)
 
