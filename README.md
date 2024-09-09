@@ -37,6 +37,7 @@ We aim to update this repository whenever we know papers accepted/published from
 
 Note: all papers are listed in the chronological order.
 
+
 #### `Generic Tracking (or RGB-only Tracking)`
   
 * [**ECCV'2024**] ***"Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks"***, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou. [[`paper`]](https://arxiv.org/abs/2402.17976)
@@ -51,11 +52,23 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"RTracker: Recoverable Tracking via PN Tree Structured Memory***", Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, and Ming-Hsuan Yang. [[`paper`]](https://arxiv.org/abs/2403.19242)
 
+
+
+
 #### `RGB-X Tracking (X as another vision modality)`
 
+* [**CVPR'2024**] ***"OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning***", Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, and Wenqiang Zhang. [[`paper`]](https://arxiv.org/abs/2403.09634)
+
+
+
+
 #### `Vision-Language Tracking`
+
 * [**ECCV'2024**] ***"SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild***", Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. 
   [paper] [[`Dataset`👍]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
+
+
+
 
 #### `Lidar-based 3D Object Tracking`
 * [**ECCV'2024**] ***"3D Single-object Tracking in Point Clouds with High Temporal Variation***", Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, and Jiaqi Yang.
