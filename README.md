@@ -38,7 +38,6 @@ Note: all papers are listed in the chronological order.
 * [**ECCV'2024**] SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild, Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, Jun Liu. [paper] [`Code`](https://github.com/sutdcv/SemTrack/tree/eval) [[`Dataset`]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
 
 #### `Lidar-based 3D Object Tracking`
-* [**ECCV'2024**] 3D Single-object Tracking in Point Clouds with High Temporal Variation
-, Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang. [[`paper`]](https://arxiv.org/pdf/2408.02049) [`Code (not released)`]
+* [**ECCV'2024**] 3D Single-object Tracking in Point Clouds with High Temporal Variation, Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang. [[`paper`]](https://arxiv.org/pdf/2408.02049) [`Code (not released)`]
 
 ## Acknowledgements
