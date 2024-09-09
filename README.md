@@ -49,9 +49,15 @@ Note: all papers are listed in the chronological order.
   **ECCV**, 2024.<br>
    [[`paper`]](https://arxiv.org/abs/2402.17976)
 
-* [**ECCV'2024**] Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers, Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu. [[`paper`]](https://arxiv.org/pdf/2407.08394)
+* Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers,<br>
+  Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu,<br>
+  **ECCV**, 2024.<br>
+  [[`paper`]](https://arxiv.org/pdf/2407.08394)
 
-* [**ECCV'2024**] Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking, Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning. [paper]
+* Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking,<br>
+  Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning,<br>
+  **ECCV**, 2024.<br>
+  [paper]
 
 #### `RGB-X Tracking (X as another vision modality)`
 
