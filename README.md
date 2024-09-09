@@ -10,7 +10,7 @@ Visual tracking is a rapidly evolving field with a significant number of researc
 
 * #### What will be included in this repository?
 
-We will focus on the bounding-box-based visual tracking, including `single modality visual tracking` (i.e., generic (RGB) tracking and LiDAR-based tracking) and `multi-modality visual tracking` (i.e., RGB-X tracking, with X being language/depth/event/thermal/LiDAR etc). Papers focusing on algorithm, benchmarks, and survey will be collected.
+We will focus on the bounding-box-based visual tracking, including `single modality visual tracking` (i.e., generic (RGB) tracking and LiDAR-based tracking) and `multi-modality visual tracking` (i.e., vision-language tracking, RGB-X tracking with X being depth/event/thermal etc). Papers focusing on algorithm, benchmarks, and survey will be collected.
 
 * #### Where will you collect the tracking papers?
 
