@@ -81,6 +81,9 @@ Note: all papers are listed in the chronological order.
 * [**ECCV'2024**] ***"SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild***", Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. 
   [paper] [[`Dataset`👍]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
 
+* [**PAMI**] ***"Divert More Attention to Vision-Language Object Tracking***", Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, and Heng Fan. 
+  [[`paper`]](https://arxiv.org/abs/2307.10046) [[`Code`👍]](https://github.com/JudasDie/SOTS)
+
 * [**CVPR'2024**] ***"Context-Aware Integration of Language and Visual References for Natural Language Tracking***", Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, and Jiming Chen. 
   [[`paper`]](https://arxiv.org/abs/2403.19975)
 
