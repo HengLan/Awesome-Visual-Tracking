@@ -20,7 +20,7 @@ Considering deep trackers started to show dominant results on benchmarks startin
 
 * #### How is your repository different from others?
 
-There are already some excellent repositories related to visual tracking. This repository is slightly different in topics by including various single-object tracking settings and in organizations in which papers are collected based on topics with clear accesses to paper and code. For those papers sharing code and dataset, a thumbs up is shown.
+There are already some excellent repositories related to visual tracking. This repository is slightly different in topics by including various single-object tracking settings and in organizations in which papers are collected based on topics with clear accesses to paper and code. For those papers sharing the code and the dataset, a thumbs up is shown.
 
 * #### How will this repository be maintained and update?
 
