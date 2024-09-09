@@ -42,13 +42,13 @@ Note: all papers are listed in the chronological order.
 * [**ECCV'2024**] ***"Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks"***, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou.<br>
   [[`paper`]](https://arxiv.org/abs/2402.17976)
 
-* [**ECCV'2024**] Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers, Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu. <br>
+* [**ECCV'2024**] ***"Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers***", Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu. <br>
   [[`paper`]](https://arxiv.org/pdf/2407.08394)
 
-* [**ECCV'2024**] Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking, Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning.<br>
+* [**ECCV'2024**] ***"Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking***", Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning.<br>
   [paper]
 
-* [**ECCV'2024**] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. <br>
+* [**ECCV'2024**] ***"Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance***", Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. <br>
   [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)<br>
 
 #### `RGB-X Tracking (X as another vision modality)`
