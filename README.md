@@ -35,7 +35,7 @@ Note: all papers are listed in the chronological order.
 #### `RGB-X Tracking (X as another vision modality: Depth/Event/Thermal ...)`
 
 #### `Vision-Language Tracking`
-* [**ECCV'2024**] SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild, Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, Jun Liu. [[`paper`]](#) [`Code`](https://github.com/sutdcv/SemTrack/tree/eval) [[`Dataset`]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
+* [**ECCV'2024**] SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild, Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, Jun Liu. [paper] [`Code`](https://github.com/sutdcv/SemTrack/tree/eval) [[`Dataset`]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
 
 #### `Lidar-based 3D Object Tracking`
 
