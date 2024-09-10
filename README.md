@@ -86,9 +86,9 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"Single-Model and Any-Modality for Video Object Tracking***", Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, and Rongrong Ji. [[`paper`]](https://arxiv.org/abs/2311.15851)
 
-* [**CVPR'2024**] ***"SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking***", Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, and Yong Liu. [[`paper`]](https://arxiv.org/abs/2403.16002) [[`Code`👍]](https://github.com/hoqolo/SDSTrack)
+* [**CVPR'2024**] ***"SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking***", Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, and Yong Liu. [[`paper`]](https://arxiv.org/abs/2403.16002) [[`Code`🌟]](https://github.com/hoqolo/SDSTrack)
 
-* [**CVPR'2024**] ***"Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline***", Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, and Jin Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, and Yong Liu. [[`paper`]](https://arxiv.org/abs/2309.14611) [[`Code and Dataset`👍]](https://github.com/Event-AHU/EventVOT_Benchmark)
+* [**CVPR'2024**] ***"Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline***", Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, and Jin Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, and Yong Liu. [[`paper`]](https://arxiv.org/abs/2309.14611) [[`Code and Dataset`🌟]](https://github.com/Event-AHU/EventVOT_Benchmark)
 
 
 
@@ -98,15 +98,15 @@ Note: all papers are listed in the chronological order.
 #### `Vision-Language Tracking`
 
 * [**ECCV'2024**] ***"SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild***", Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. 
-  [paper] [[`Dataset`👍]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
+  [paper] [[`Dataset`🌟]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
 
 * [**IEEE T-PAMI'2024**] ***"Divert More Attention to Vision-Language Object Tracking***", Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, and Heng Fan. 
-  [[`paper`]](https://arxiv.org/abs/2307.10046) [[`Code`👍]](https://github.com/JudasDie/SOTS)
+  [[`paper`]](https://arxiv.org/abs/2307.10046) [[`Code`🌟]](https://github.com/JudasDie/SOTS)
 
 * [**CVPR'2024**] ***"Context-Aware Integration of Language and Visual References for Natural Language Tracking***", Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, and Jiming Chen. 
   [[`paper`]](https://arxiv.org/abs/2403.19975)
 
-* [**NeurIPS'2023**] ***"A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship***", Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, and Kaiqi Huang. [[`paper`]](https://openreview.net/forum?id=xo6zDI8gvB&referrer=%5Bthe%20profile%20of%20Kaiqi%20Huang%5D(%2Fprofile%3Fid%3D~Kaiqi_Huang1)) [[`Dataset`👍]](http://videocube.aitestunion.com/)
+* [**NeurIPS'2023**] ***"A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship***", Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, and Kaiqi Huang. [[`paper`]](https://openreview.net/forum?id=xo6zDI8gvB&referrer=%5Bthe%20profile%20of%20Kaiqi%20Huang%5D(%2Fprofile%3Fid%3D~Kaiqi_Huang1)) [[`Dataset`🌟]](http://videocube.aitestunion.com/)
 
 
 
