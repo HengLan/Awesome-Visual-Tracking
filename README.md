@@ -26,8 +26,8 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'2024, ICML'2024, CVPR'2024, NeurIPS'2023 papers have been added.
-- TODO: ICCV'2023, CVPR'2023 papers to be added.
+- ECCV'24, ICML'24, CVPR'24, NeurIPS'23, ICCV'23 papers have been added.
+- TODO: CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22 papers to be added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
@@ -73,6 +73,16 @@ Note: all papers are listed in the chronological order.
 
 * [**NeurIPS'2023**] ***"EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset***", Hao Tang, Kevin J Liang, Kristen Grauman, Matt Feiszli, and Weiyao Wang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ef01d91aa87e7701aa9c8dc66a2d5bdb-Paper-Datasets_and_Benchmarks.pdf) [[`Dataset`🌟]](https://github.com/EGO4D/episodic-memory/tree/main/EgoTracks)
 
+* [**ICCV'2023**] ***"PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework***", Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, and Changhong Fu. [[`paper`]](https://arxiv.org/abs/2211.11629) [[`Code`🌟]](https://github.com/Jaraxxus-Me/PVT_pp)
+
+* [**ICCV'2023**] ***"Foreground-Background Distribution Modeling Transformer for Visual Object Tracking***", Dawei Yang, Jianfeng He, Yinchao Ma, Qianjin Yu, and Tianzhu Zhang. [[`paper`]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Foreground-Background_Distribution_Modeling_Transformer_for_Visual_Object_Tracking_ICCV_2023_paper.pdf)
+
+* [**ICCV'2023**] ***"Robust Object Modeling for Visual Tracking***", Yidong Cai, Jie Liu, Jie Tang, and Gangshan Wu. [[`paper`]](https://arxiv.org/abs/2308.05140) [[`Code`🌟]](https://github.com/dawnyc/ROMTrack)
+
+* [**ICCV'2023**] ***"Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking***", Shuiwang Li, Yangxiang Yang, Dan Zeng, and Xucheng Wang. [[`paper`]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.pdf)
+
+* [**ICCV'2023**] ***"Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking***", Ben Kang, Xin Chen, Dong Wang, Houwen Peng, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2308.06904)
+
 
 
 
@@ -108,6 +118,10 @@ Note: all papers are listed in the chronological order.
 
 * [**NeurIPS'2023**] ***"A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship***", Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, and Kaiqi Huang. [[`paper`]](https://openreview.net/forum?id=xo6zDI8gvB&referrer=%5Bthe%20profile%20of%20Kaiqi%20Huang%5D(%2Fprofile%3Fid%3D~Kaiqi_Huang1)) [[`Dataset`🌟]](http://videocube.aitestunion.com/)
 
+* [**ICCV'2023**] ***"Tracking by Natural Language Specification with Long Short-term Context Decoupling***", Ding Ma and Xiangqian Wu. [[`paper`]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Tracking_by_Natural_Language_Specification_with_Long_Short-term_Context_Decoupling_ICCV_2023_paper.pdf)
+
+* [**ICCV'2023**] ***"CiteTracker: Correlating Image and Text for Visual Tracking***", Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, and Ming-Hsuan Yang. [[`paper`]](https://arxiv.org/abs/2308.11322) [[`Code`🌟]](https://github.com/NorahGreen/CiteTracker)
+
 
 
 
@@ -118,6 +132,10 @@ Note: all papers are listed in the chronological order.
   
 * [**ECCV'2024**] ***"Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training***", Qiangqiang Wu, Yan Xia, Jia Wang, and Antoni B Chan.
   [paper]
+
+* [**ICCV'2023**] ***"MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors***", Tian-Xing Xu, Yuan-Chen Guo, Yu-Kun Lai, and Song-Hai Zhang. [[`paper`]](https://arxiv.org/abs/2303.05071)
+
+* [**ICCV'2023**] ***"Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking***", Teli Ma, Mengmeng Wang, Jimin Xiao, Huifeng Wu, and Yong Liu. [[`paper`]](https://arxiv.org/abs/2308.12549)
 
 
 ## Acknowledgements
