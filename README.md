@@ -65,6 +65,17 @@ Note: all papers are listed in the chronological order.
 
 * [**NeurIPS'2023**] ***"MixFormerV2: Efficient Fully Transformer Tracking***", Yutao Cui, Tianhui Song, Gangshan Wu, and Limin Wang. [[`paper`]](https://arxiv.org/abs/2305.15896) [[`Code`👍]](https://github.com/MCG-NJU/MixFormerV2)
 
+* [**NeurIPS'2023**] ***"ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking***", Yutong Kou, Jin Gao, Bing Li, Gang Wang, Weiming Hu, Yizheng Wang, and Liang Li. [[`paper`]](https://arxiv.org/abs/2310.10071) [[`Code`👍]](https://github.com/Kou-99/ZoomTrack)
+
+* [**NeurIPS'2023**] ***"Reading Relevant Feature from Global Representation Memory for Visual Object Tracking***", Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, Weifeng Ge, and Wenqiang Zhang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf)
+
+* [**NeurIPS'2023**] ***"BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking***", Bin Huang, Jiaqian Yu, Yiwei Chen, Siyang Pan, Qiang Wang, and Zhi Wang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/828bb8f42d4ab15322b9315151959c61-Paper-Conference.pdf)
+
+* [**NeurIPS'2023**] ***"EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset***", Hao Tang, Kevin J Liang, Kristen Grauman, Matt Feiszli, and Weiyao Wang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ef01d91aa87e7701aa9c8dc66a2d5bdb-Paper-Datasets_and_Benchmarks.pdf) [[`Dataset`👍]](https://github.com/EGO4D/episodic-memory/tree/main/EgoTracks)
+
+
+
+
 
 
 
@@ -83,6 +94,7 @@ Note: all papers are listed in the chronological order.
 
 
 
+
 #### `Vision-Language Tracking`
 
 * [**ECCV'2024**] ***"SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild***", Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. 
@@ -93,6 +105,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"Context-Aware Integration of Language and Visual References for Natural Language Tracking***", Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, and Jiming Chen. 
   [[`paper`]](https://arxiv.org/abs/2403.19975)
+
+* [**NeurIPS'2023**] ***"A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship***", Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, and Kaiqi Huang. [[`paper`]](https://openreview.net/forum?id=xo6zDI8gvB&referrer=%5Bthe%20profile%20of%20Kaiqi%20Huang%5D(%2Fprofile%3Fid%3D~Kaiqi_Huang1)) [[`Dataset`👍]](http://videocube.aitestunion.com/)
 
 
 
