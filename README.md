@@ -49,29 +49,29 @@ Note: all papers are listed in the chronological order.
 
 * [**ECCV'2024**] ***"Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking***", Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning. [paper]
 
-* [**ECCV'2024**] ***"Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance***", Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`👍]](https://github.com/LitingLin/LoRAT)
+* [**ECCV'2024**] ***"Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance***", Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`🌟]](https://github.com/LitingLin/LoRAT)
 
-* [**ICML'2024**] ***"Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking***", Yongxin Li, Mengyuan Liu, You Wu, Xucheng Wang, Xiangyang Yang, and Shuiwang Li. [[`paper`]](https://proceedings.mlr.press/v235/li24ax.html) [[`Code`👍]](https://github.com/wuyou3474/AVTrack)
+* [**ICML'2024**] ***"Learning Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking***", Yongxin Li, Mengyuan Liu, You Wu, Xucheng Wang, Xiangyang Yang, and Shuiwang Li. [[`paper`]](https://proceedings.mlr.press/v235/li24ax.html) [[`Code`🌟]](https://github.com/wuyou3474/AVTrack)
 
 * [**CVPR'2024**] ***"RTracker: Recoverable Tracking via PN Tree Structured Memory***", Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, and Ming-Hsuan Yang. [[`paper`]](https://arxiv.org/abs/2403.19242)
 
-* [**CVPR'2024**] ***"Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers***", Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, and Rongrong Ji. [[`paper`]](https://arxiv.org/abs/2403.19242) [[`Code`👍]](https://github.com/GXNU-ZhongLab/AQATrack)
+* [**CVPR'2024**] ***"Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers***", Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, and Rongrong Ji. [[`paper`]](https://arxiv.org/abs/2403.19242) [[`Code`🌟]](https://github.com/GXNU-ZhongLab/AQATrack)
 
-* [**CVPR'2024**] ***"HIPTrack: Visual Tracking with Historical Prompts***", Wenrui Cai, Qingjie Liu, and Yunhong Wang. [[`paper`]](https://arxiv.org/abs/2311.02072) [[`Code`👍]](https://github.com/WenRuiCai/HIPTrack)
+* [**CVPR'2024**] ***"HIPTrack: Visual Tracking with Historical Prompts***", Wenrui Cai, Qingjie Liu, and Yunhong Wang. [[`paper`]](https://arxiv.org/abs/2311.02072) [[`Code`🌟]](https://github.com/WenRuiCai/HIPTrack)
 
-* [**CVPR'2024**] ***"DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking***", Fei Xie, Zhongdao Wang, and Chao Ma. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) [[`Code`👍]](https://github.com/VISION-SJTU/DiffusionTrack)
+* [**CVPR'2024**] ***"DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking***", Fei Xie, Zhongdao Wang, and Chao Ma. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) [[`Code`🌟]](https://github.com/VISION-SJTU/DiffusionTrack)
 
-* [**CVPR'2024**] ***"ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe***", Yifan Bai, Zeyang Zhao, Yihong Gong, and Xing Wei. [[`paper`]](https://arxiv.org/abs/2312.17133) [[`Code`👍]](https://github.com/MIV-XJTU/ARTrack)
+* [**CVPR'2024**] ***"ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe***", Yifan Bai, Zeyang Zhao, Yihong Gong, and Xing Wei. [[`paper`]](https://arxiv.org/abs/2312.17133) [[`Code`🌟]](https://github.com/MIV-XJTU/ARTrack)
 
-* [**NeurIPS'2023**] ***"MixFormerV2: Efficient Fully Transformer Tracking***", Yutao Cui, Tianhui Song, Gangshan Wu, and Limin Wang. [[`paper`]](https://arxiv.org/abs/2305.15896) [[`Code`👍]](https://github.com/MCG-NJU/MixFormerV2)
+* [**NeurIPS'2023**] ***"MixFormerV2: Efficient Fully Transformer Tracking***", Yutao Cui, Tianhui Song, Gangshan Wu, and Limin Wang. [[`paper`]](https://arxiv.org/abs/2305.15896) [[`Code`🌟]](https://github.com/MCG-NJU/MixFormerV2)
 
-* [**NeurIPS'2023**] ***"ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking***", Yutong Kou, Jin Gao, Bing Li, Gang Wang, Weiming Hu, Yizheng Wang, and Liang Li. [[`paper`]](https://arxiv.org/abs/2310.10071) [[`Code`👍]](https://github.com/Kou-99/ZoomTrack)
+* [**NeurIPS'2023**] ***"ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking***", Yutong Kou, Jin Gao, Bing Li, Gang Wang, Weiming Hu, Yizheng Wang, and Liang Li. [[`paper`]](https://arxiv.org/abs/2310.10071) [[`Code`🌟]](https://github.com/Kou-99/ZoomTrack)
 
 * [**NeurIPS'2023**] ***"Reading Relevant Feature from Global Representation Memory for Visual Object Tracking***", Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, Weifeng Ge, and Wenqiang Zhang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf)
 
 * [**NeurIPS'2023**] ***"BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking***", Bin Huang, Jiaqian Yu, Yiwei Chen, Siyang Pan, Qiang Wang, and Zhi Wang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/828bb8f42d4ab15322b9315151959c61-Paper-Conference.pdf)
 
-* [**NeurIPS'2023**] ***"EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset***", Hao Tang, Kevin J Liang, Kristen Grauman, Matt Feiszli, and Weiyao Wang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ef01d91aa87e7701aa9c8dc66a2d5bdb-Paper-Datasets_and_Benchmarks.pdf) [[`Dataset`👍]](https://github.com/EGO4D/episodic-memory/tree/main/EgoTracks)
+* [**NeurIPS'2023**] ***"EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset***", Hao Tang, Kevin J Liang, Kristen Grauman, Matt Feiszli, and Weiyao Wang. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ef01d91aa87e7701aa9c8dc66a2d5bdb-Paper-Datasets_and_Benchmarks.pdf) [[`Dataset`🌟]](https://github.com/EGO4D/episodic-memory/tree/main/EgoTracks)
 
 
 
