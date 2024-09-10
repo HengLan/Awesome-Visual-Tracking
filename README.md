@@ -63,6 +63,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe***", Yifan Bai, Zeyang Zhao, Yihong Gong, and Xing Wei. [[`paper`]](https://arxiv.org/abs/2312.17133) [[`Code`👍]](https://github.com/MIV-XJTU/ARTrack)
 
+* [**NeurIPS'2023**] ***"MixFormerV2: Efficient Fully Transformer Tracking***", Yutao Cui, Tianhui Song, Gangshan Wu, and Limin Wang. [[`paper`]](https://arxiv.org/abs/2305.15896) [[`Code`👍]](https://github.com/MCG-NJU/MixFormerV2)
+
 
 
 
