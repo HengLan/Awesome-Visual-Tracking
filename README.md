@@ -93,6 +93,12 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2023**] ***"Representation Learning for Visual Object Tracking by Masked Appearance Transfer***", Haojie Zhao, Dong Wang, and Huchuan Lu. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.pdf) [[`Code`🌟]](https://github.com/difhnp/MAT?tab=readme-ov-file)
 
+* [**CVPR'2023**] ***"VideoTrack: Learning to Track Objects via Video Transformer***", Fei Xie, Lei Chu, Jiahao Li, Yan Lu, and Chao Ma. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf)
+
+* [**CVPR'2023**] ***"OmniTracker: Unifying Object Tracking by Tracking-with-Detection***", Junke Wang, Dongdong Chen, Zuxuan Wu, Chong Luo, Xiyang Dai, Lu Yuan, and Yu-Gang Jiang. [[`paper`]](https://arxiv.org/abs/2303.12079)
+
+* [**CVPR'2023**] ***"Universal Instance Perception as Object Discovery and Retrieval***", Bin Yan, Yi Jiang, Jiannan Wu, Dong Wang, Ping Luo, Zehuan Yuan, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2303.06674) [[`Code`🌟]](https://github.com/MasterBin-IIAU/UNINEXT)
+
 
 
 
