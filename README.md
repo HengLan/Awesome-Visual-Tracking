@@ -91,6 +91,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2023**] ***"DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks***", Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, and Antoni B. Chan. [[`paper`]](https://arxiv.org/abs/2304.00571) [[`Code`🌟]](https://github.com/jimmy-dq/DropMAE)
 
+* [**CVPR'2023**] ***"Representation Learning for Visual Object Tracking by Masked Appearance Transfer***", Haojie Zhao, Dong Wang, and Huchuan Lu. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.pdf) [[`Code`🌟]](https://github.com/difhnp/MAT?tab=readme-ov-file)
+
 
 
 
@@ -112,8 +114,6 @@ Note: all papers are listed in the chronological order.
 * [**CVPR'2023**] ***"Efficient RGB-T Tracking via Cross-Modality Distillation***", Tianlu Zhang, Hongyuan Guo, Qiang Jiao, Qiang Zhang, and Jungong Han. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Efficient_RGB-T_Tracking_via_Cross-Modality_Distillation_CVPR_2023_paper.pdf)
 
 * [**CVPR'2023**] ***"Visual Prompt Multi-Modal Tracking***", Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2303.10826) [[`Code`🌟]](https://github.com/jiawen-zhu/ViPT)
-
-* [**CVPR'2023**] ***"Representation Learning for Visual Object Tracking by Masked Appearance Transfer***", Haojie Zhao, Dong Wang, and Huchuan Lu. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.pdf) [[`Code`🌟]](https://github.com/difhnp/MAT?tab=readme-ov-file)
 
 * [**CVPR'2023**] ***"Bridging Search Region Interaction with Template for RGB-T Tracking***", Tianrui Hui, Zizheng Xun, Fengguang Peng, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, and Si Liu. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf) [[`Code`🌟]](https://github.com/RyanHTR/TBSI)
 
