@@ -101,6 +101,8 @@ Note: all papers are listed in the chronological order.
 
 * [**NeurIPS'2022**] ***"SwinTrack: A Simple and Strong Baseline for Transformer Tracking***", Liting Lin, Heng Fan, Zhipeng Zhang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2112.00995) [[`Code`🌟]](https://github.com/LitingLin/SwinTrack)
 
+* [**ECCV'2022**] ***"Towards Grand Unification of Object Tracking***", Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2207.07078) [[`Code`🌟]](https://github.com/MasterBin-IIAU/Unicorn)
+
 
 
 
@@ -177,6 +179,8 @@ Note: all papers are listed in the chronological order.
 * [**CVPR'2023**] ***"CXTrack: Improving 3D Point Cloud Tracking with Contextual Information***", Tian-Xing Xu, Yuan-Chen Guo, Yu-Kun Lai, and Song-Hai Zhang. [[`paper`]](https://arxiv.org/abs/2211.08542) [[`Code`🌟]](https://github.com/slothfulxtx/cxtrack3d)
 
 * [**ECCV'2022**] ***"3D Siamese Transformer Network for Single Object Tracking on Point Clouds***", Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie, and Jian Yang. [[`paper`]](https://arxiv.org/abs/2207.11995) [[`Code`🌟]](https://github.com/fpthink/STNet)
+
+* [**ECCV'2022**] ***"CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds***", Zhiyang Guo, Yunyao Mao, Wengang Zhou, Min Wang, and Houqiang Li. [[`paper`]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820091.pdf)
 
 
 
