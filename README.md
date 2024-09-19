@@ -99,6 +99,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2023**] ***"Universal Instance Perception as Object Discovery and Retrieval***", Bin Yan, Yi Jiang, Jiannan Wu, Dong Wang, Ping Luo, Zehuan Yuan, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2303.06674) [[`Code`🌟]](https://github.com/MasterBin-IIAU/UNINEXT)
 
+* [**NeurIPS'2022**] ***"SwinTrack: A Simple and Strong Baseline for Transformer Tracking***", Liting Lin, Heng Fan, Zhipeng Zhang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2112.00995) [[`Code`🌟]](https://github.com/LitingLin/SwinTrack)
+
 
 
 
