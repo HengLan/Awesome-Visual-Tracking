@@ -26,8 +26,8 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'24, ICML'24, CVPR'24, NeurIPS'23, ICCV'23, CVPR'2023, and NeurIPS'22 papers have been added.
-- TODO: ECCV'22, CVPR'22, NeurIPS'21, ICCV'21, CVPR'21 papers to be added.
+- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, and ECCV'22 papers have been added.
+- TODO: CVPR'22, NeurIPS'21, ICCV'21, CVPR'21 papers to be added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
@@ -62,6 +62,10 @@ Note: all papers are listed in the chronological order.
 * [**CVPR'2024**] ***"DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking***", Fei Xie, Zhongdao Wang, and Chao Ma. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf) [[`Code`🌟]](https://github.com/VISION-SJTU/DiffusionTrack)
 
 * [**CVPR'2024**] ***"ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe***", Yifan Bai, Zeyang Zhao, Yihong Gong, and Xing Wei. [[`paper`]](https://arxiv.org/abs/2312.17133) [[`Code`🌟]](https://github.com/MIV-XJTU/ARTrack)
+
+* [**ICLR'2024**] ***"Towards Category Unification of 3D Single Object Tracking on Point Clouds***", Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, and Fei Xie. [[`paper`]](https://arxiv.org/abs/2401.11204)
+
+* [**ICLR'2024**] ***"LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks***", Jianlang Chen, Xuhong Ren, Qing Guo, Felix Juefei-Xu, Di Lin, Wei Feng, Lei Ma, and Jianjun Zhao. [[`paper`]](https://arxiv.org/abs/2404.06247)
 
 * [**NeurIPS'2023**] ***"MixFormerV2: Efficient Fully Transformer Tracking***", Yutao Cui, Tianhui Song, Gangshan Wu, and Limin Wang. [[`paper`]](https://arxiv.org/abs/2305.15896) [[`Code`🌟]](https://github.com/MCG-NJU/MixFormerV2)
 
@@ -101,9 +105,21 @@ Note: all papers are listed in the chronological order.
 
 * [**NeurIPS'2022**] ***"SwinTrack: A Simple and Strong Baseline for Transformer Tracking***", Liting Lin, Heng Fan, Zhipeng Zhang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2112.00995) [[`Code`🌟]](https://github.com/LitingLin/SwinTrack)
 
+* [**ECCV'2022**] ***"Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework***", Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan, and Xilin Chen. [[`paper`]](https://arxiv.org/abs/2203.11991) [[`Code`🌟]](https://github.com/botaoye/OSTrack)
+
 * [**ECCV'2022**] ***"Towards Grand Unification of Object Tracking***", Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2207.07078) [[`Code`🌟]](https://github.com/MasterBin-IIAU/Unicorn)
 
+* [**ECCV'2022**] ***"AiATrack: Attention in Attention for Transformer Visual Tracking***", Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, and Junsong Yuan. [[`paper`]](https://arxiv.org/abs/2207.09603) [[`Code`🌟]](https://github.com/Little-Podi/AiATrack)
 
+* [**ECCV'2022**] ***"Backbone Is All Your Need: A Simplified Architecture for Visual Object Tracking***", Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, and Wanli Ouyang. [[`paper`]](https://arxiv.org/abs/2203.05328) [[`Code`🌟]](https://github.com/LPXTT/SimTrack)
+
+* [**ECCV'2022**] ***"Hierarchical Feature Embedding for Visual Tracking***", Zhixiong Pi, Weitao Wan, Chong Sun, Changxin Gao, Nong Sang, and Chen Li. [[`paper`]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820418.pdf)
+
+* [**ECCV'2022**] ***"Towards Sequence-Level Training for Visual Tracking***", Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, and Minsu Cho. [[`paper`]](https://arxiv.org/abs/2208.05810) [[`Code`🌟]](https://github.com/byminji/SLTtrack)
+
+* [**ECCV'2022**] ***"Robust Visual Tracking by Segmentation***", Matthieu Paul, Martin Danelljan, Christoph Mayer, and Luc Van Gool. [[`paper`]](https://arxiv.org/abs/2203.11191) [[`Code`🌟]](https://github.com/visionml/pytracking)
+
+* [**ECCV'2022**] ***"FEAR: Fast, Efficient, Accurate and Robust Visual Tracker***", Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, and Jiři Matas. [[`paper`]](https://arxiv.org/abs/2112.07957) [[`Code`🌟]](https://github.com/PinataFarms/FEARTracker)
 
 
 
@@ -132,6 +148,8 @@ Note: all papers are listed in the chronological order.
 * [**CVPR'2023**] ***"Frame-Event Alignment and Fusion Network for High Frame Rate Tracking***", Jiqing Zhang, Yuanchen Wang, Wenxi Liu, Meng Li, Jinpeng Bai, Baocai Yin, and Xin Yang. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf) [[`Code`🌟]](https://github.com/Jee-King/AFNet)
 
 * [**NeurIPS'2022**] ***"Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds***", Mingzhe Guo, Zhipeng Zhang, Heng Fan, and Liping Jing. [[`paper`]](https://openreview.net/forum?id=hTxYJAKY85)
+
+* [**ECCV'2022**] ***"Towards Generic 3D Tracking in RGBD Videos: Benchmark and Baseline***", Jinyu Yang, Zhongqun Zhang, Zhe Li, Hyung Jin Chang, Aleš Leonardis, and Feng Zheng. [[`paper`]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820108.pdf)
 
 
 
