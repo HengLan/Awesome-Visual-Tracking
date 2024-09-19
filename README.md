@@ -129,6 +129,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2023**] ***"Frame-Event Alignment and Fusion Network for High Frame Rate Tracking***", Jiqing Zhang, Yuanchen Wang, Wenxi Liu, Meng Li, Jinpeng Bai, Baocai Yin, and Xin Yang. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf) [[`Code`🌟]](https://github.com/Jee-King/AFNet)
 
+* [**NeurIPS'2022**] ***"Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds***", Mingzhe Guo, Zhipeng Zhang, Heng Fan, and Liping Jing. [[`paper`]](https://openreview.net/forum?id=hTxYJAKY85)
+
 
 
 
@@ -152,6 +154,8 @@ Note: all papers are listed in the chronological order.
 * [**ICCV'2023**] ***"CiteTracker: Correlating Image and Text for Visual Tracking***", Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, and Ming-Hsuan Yang. [[`paper`]](https://arxiv.org/abs/2308.11322) [[`Code`🌟]](https://github.com/NorahGreen/CiteTracker)
 
 * [**CVPR'2023**] ***"Joint Visual Grounding and Tracking with Natural Language Specification***", Li Zhou, Zikun Zhou, Kaige Mao, and Zhenyu He. [[`paper`]](https://arxiv.org/abs/2303.12027) [[`Code`🌟]](https://github.com/lizhou-cs/JointNLT)
+
+* [**NeurIPS'2022**] ***"Divert More Attention to Vision-Language Tracking***", Mingzhe Guo, Zhipeng Zhang, Heng Fan, and Liping Jing. [[`paper`]](https://arxiv.org/abs/2207.01076) [[`Code`🌟]](https://github.com/JudasDie/SOTS)
 
 
 
