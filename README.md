@@ -26,8 +26,8 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'24, ICML'24, CVPR'24, NeurIPS'23, ICCV'23, CVPR'2023 papers have been added.
-- TODO: NeurIPS'22, ECCV'22, CVPR'22 papers to be added.
+- ECCV'24, ICML'24, CVPR'24, NeurIPS'23, ICCV'23, CVPR'2023, and NeurIPS'22 papers have been added.
+- TODO: ECCV'22, CVPR'22, NeurIPS'21, ICCV'21, CVPR'21 papers to be added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
