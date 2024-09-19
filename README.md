@@ -176,5 +176,9 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2023**] ***"CXTrack: Improving 3D Point Cloud Tracking with Contextual Information***", Tian-Xing Xu, Yuan-Chen Guo, Yu-Kun Lai, and Song-Hai Zhang. [[`paper`]](https://arxiv.org/abs/2211.08542) [[`Code`🌟]](https://github.com/slothfulxtx/cxtrack3d)
 
+* [**ECCV'2022**] ***"3D Siamese Transformer Network for Single Object Tracking on Point Clouds***", Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie, and Jian Yang. [[`paper`]](https://arxiv.org/abs/2207.11995) [[`Code`🌟]](https://github.com/fpthink/STNet)
+
+
+
 
 ## Acknowledgements
