@@ -119,6 +119,8 @@ Note: all papers are listed in the chronological order.
 
 * [**ECCV'2022**] ***"FEAR: Fast, Efficient, Accurate and Robust Visual Tracker***", Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, and Jiři Matas. [[`paper`]](https://arxiv.org/abs/2112.07957) [[`Code`🌟]](https://github.com/PinataFarms/FEARTracker)
 
+* [**CVPR'2022**] ***"Transforming Model Prediction for Tracking***", Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, and Luc Van Gool. [[`paper`]](https://arxiv.org/abs/2203.11192) [[`Code`🌟]](https://github.com/visionml/pytracking)
+
 
 
 
