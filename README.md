@@ -63,8 +63,6 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2024**] ***"ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe***", Yifan Bai, Zeyang Zhao, Yihong Gong, and Xing Wei. [[`paper`]](https://arxiv.org/abs/2312.17133) [[`Code`🌟]](https://github.com/MIV-XJTU/ARTrack)
 
-* [**ICLR'2024**] ***"Towards Category Unification of 3D Single Object Tracking on Point Clouds***", Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, and Fei Xie. [[`paper`]](https://arxiv.org/abs/2401.11204)
-
 * [**ICLR'2024**] ***"LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks***", Jianlang Chen, Xuhong Ren, Qing Guo, Felix Juefei-Xu, Di Lin, Wei Feng, Lei Ma, and Jianjun Zhao. [[`paper`]](https://arxiv.org/abs/2404.06247)
 
 * [**NeurIPS'2023**] ***"MixFormerV2: Efficient Fully Transformer Tracking***", Yutao Cui, Tianhui Song, Gangshan Wu, and Limin Wang. [[`paper`]](https://arxiv.org/abs/2305.15896) [[`Code`🌟]](https://github.com/MCG-NJU/MixFormerV2)
@@ -189,6 +187,8 @@ Note: all papers are listed in the chronological order.
   
 * [**ECCV'2024**] ***"Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training***", Qiangqiang Wu, Yan Xia, Jia Wang, and Antoni B Chan.
   [paper]
+
+* [**ICLR'2024**] ***"Towards Category Unification of 3D Single Object Tracking on Point Clouds***", Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, and Fei Xie. [[`paper`]](https://arxiv.org/abs/2401.11204)
 
 * [**ICCV'2023**] ***"MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors***", Tian-Xing Xu, Yuan-Chen Guo, Yu-Kun Lai, and Song-Hai Zhang. [[`paper`]](https://arxiv.org/abs/2303.05071)
 
