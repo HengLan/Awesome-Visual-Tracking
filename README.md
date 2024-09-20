@@ -26,8 +26,8 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, and ECCV'22 papers have been added.
-- TODO: CVPR'22, NeurIPS'21, ICCV'21, CVPR'21 papers to be added.
+- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, and CVPR'22 papers have been added.
+- TODO: NeurIPS'21, ICCV'21, CVPR'21 papers to be added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
@@ -121,6 +121,24 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2022**] ***"Transforming Model Prediction for Tracking***", Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, and Luc Van Gool. [[`paper`]](https://arxiv.org/abs/2203.11192) [[`Code`🌟]](https://github.com/visionml/pytracking)
 
+* [**CVPR'2022**] ***"Unsupervised Learning of Accurate Siamese Tracking***", Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, and Wanli Ouyang. [[`paper`]](https://arxiv.org/abs/2204.01475)
+
+* [**CVPR'2022**] ***"Unified Transformer Tracker for Object Tracking***", Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, and Zhicheng Yan. [[`paper`]](https://arxiv.org/pdf/2203.15175) [[`Code`🌟]](https://github.com/Flowerfan/Trackron)
+
+* [**CVPR'2022**] ***"Unsupervised Domain Adaptation for Nighttime Aerial Tracking***", Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, and Guang Chen. [[`paper`]](https://arxiv.org/abs/2203.10541) [[`Code`🌟]](https://github.com/vision4robotics/UDAT)
+
+* [**CVPR'2022**] ***"TCTrack: Temporal Contexts for Aerial Tracking***", Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, and Changhong Fu. [[`paper`]](https://arxiv.org/abs/2203.01885) [[`Code`🌟]](https://github.com/vision4robotics/TCTrack)
+
+* [**CVPR'2022**] ***"Correlation-Aware Deep Tracking***", Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, and Wenjun Zeng. [[`paper`]](https://arxiv.org/abs/2203.01666)
+
+* [**CVPR'2022**] ***"Transformer Tracking With Cyclic Shifting Window Attention***", Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, and Wei Yang. [[`paper`]](https://arxiv.org/abs/2205.03806) [[`Code`🌟]](https://github.com/SkyeSong38/CSWinTT)
+
+* [**CVPR'2022**] ***"Global Tracking via Ensemble of Local Trackers***", Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, and Zhenyu He. [[`paper`]](https://arxiv.org/abs/2203.16092)
+
+* [**CVPR'2022**] ***"MixFormer: End-to-End Tracking With Iterative Mixed Attention***", Yutao Cui, Cheng Jiang, Limin Wang, and Gangshan Wu. [[`paper`]](https://arxiv.org/abs/2203.11082) [[`Code`🌟]](https://github.com/MCG-NJU/MixFormer)
+
+* [**CVPR'2022**] ***"Ranking-Based Siamese Visual Tracking***", Feng Tang and Qiang Ling. [[`paper`]](https://arxiv.org/abs/2205.11761) [[`Code`🌟]](https://github.com/sansanfree/RBO)
+
 
 
 
@@ -150,6 +168,10 @@ Note: all papers are listed in the chronological order.
 * [**NeurIPS'2022**] ***"Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds***", Mingzhe Guo, Zhipeng Zhang, Heng Fan, and Liping Jing. [[`paper`]](https://openreview.net/forum?id=hTxYJAKY85)
 
 * [**ECCV'2022**] ***"Towards Generic 3D Tracking in RGBD Videos: Benchmark and Baseline***", Jinyu Yang, Zhongqun Zhang, Zhe Li, Hyung Jin Chang, Aleš Leonardis, and Feng Zheng. [[`paper`]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820108.pdf)
+
+* [**CVPR'2022**] ***"Spiking Transformers for Event-Based Single Object Tracking***", Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf) [[`Code`🌟]](https://github.com/Jee-King/CVPR2022_STNet)
+
+* [**CVPR'2022**] ***"Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline***", Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, and Xiang Ruan. [[`paper`]](https://arxiv.org/abs/2204.04120) [[`Dataset`🌟]](https://zhang-pengyu.github.io/DUT-VTUAV/)
 
 
 
@@ -201,6 +223,10 @@ Note: all papers are listed in the chronological order.
 * [**ECCV'2022**] ***"3D Siamese Transformer Network for Single Object Tracking on Point Clouds***", Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie, and Jian Yang. [[`paper`]](https://arxiv.org/abs/2207.11995) [[`Code`🌟]](https://github.com/fpthink/STNet)
 
 * [**ECCV'2022**] ***"CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds***", Zhiyang Guo, Yunyao Mao, Wengang Zhou, Min Wang, and Houqiang Li. [[`paper`]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820091.pdf)
+
+* [**CVPR'2022**] ***"PTTR: Relational 3D Point Cloud Object Tracking With Transformer***", Changqing Zhou, Zhipeng Luo, Yueru Luo, Tianrui Liu, Liang Pan, Zhongang Cai, Haiyu Zhao, and Shijian Lu. [[`paper`]](https://arxiv.org/abs/2112.02857) [[`Code`🌟]](https://github.com/Jasonkks/PTTR)
+
+* [**CVPR'2022**] ***"Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds***", Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, and Zhen Li. [[`paper`]](https://arxiv.org/abs/2203.01730) [[`Code`🌟]](https://github.com/Ghostish/Open3DSOT)
 
 
 
