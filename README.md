@@ -26,8 +26,8 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, and CVPR'22 papers have been added.
-- TODO: NeurIPS'21, ICCV'21, CVPR'21 papers to be added.
+- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21 papers have been added.
+- TODO: ICCV'21, CVPR'21 papers to be added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
@@ -139,6 +139,8 @@ Note: all papers are listed in the chronological order.
 
 * [**CVPR'2022**] ***"Ranking-Based Siamese Visual Tracking***", Feng Tang and Qiang Ling. [[`paper`]](https://arxiv.org/abs/2205.11761) [[`Code`🌟]](https://github.com/sansanfree/RBO)
 
+* [**NeurIPS'2021**] ***"Do Different Tracking Tasks Require Different Appearance Models?***", Zhongdao Wang, Hengshuang Zhao, Ya-Li Li, Shengjin Wang, Philip Torr, and Luca Bertinetto. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2021/file/06997f04a7db92466a2baa6ebc8b872d-Paper.pdf) [[`Code`🌟]](https://zhongdao.github.io/UniTrack/)
+
 
 
 
@@ -227,6 +229,8 @@ Note: all papers are listed in the chronological order.
 * [**CVPR'2022**] ***"PTTR: Relational 3D Point Cloud Object Tracking With Transformer***", Changqing Zhou, Zhipeng Luo, Yueru Luo, Tianrui Liu, Liang Pan, Zhongang Cai, Haiyu Zhao, and Shijian Lu. [[`paper`]](https://arxiv.org/abs/2112.02857) [[`Code`🌟]](https://github.com/Jasonkks/PTTR)
 
 * [**CVPR'2022**] ***"Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds***", Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, and Zhen Li. [[`paper`]](https://arxiv.org/abs/2203.01730) [[`Code`🌟]](https://github.com/Ghostish/Open3DSOT)
+
+* [**NeurIPS'2021**] ***"3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds***", Le Hui, Lingpeng Wang, Mingmei Cheng, Jin Xie, and Jian Yang. [[`paper`]](https://arxiv.org/abs/2111.04426)
 
 
 
