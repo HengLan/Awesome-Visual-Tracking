@@ -27,7 +27,7 @@ We aim to update this repository whenever we know papers accepted/published from
 
 ## Log
 - ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21 papers have been added.
-- TODO: ICCV'21, CVPR'21 papers to be added.
+- TODO: ICCV'21, CVPR'21, ICML'21, ECCV'20, CVPR'20 papers to be added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
