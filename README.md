@@ -15,7 +15,9 @@ We will focus on the bounding-box-based visual tracking, including `single modal
 
 With numerous papers published on visual tracking each year, it is (almost) impossible to collect all the papers in this field. We will collect papers from major computer vision (e.g., CVPR/ICCV/ECCV) and machine learning (e.g., NeurIPS/ICLR/ICML) conferences or journals (e.g., IEEE T-PAMI and IJCV) because they usually represent the latest innovations in the tracking community. But please be noted that, papers outside the aforementioned avenues might also be considered.
 
-Considering deep trackers started to show dominant results on benchmarks starting from 2015, we include trackers from 2015 to now.
+Please note that, tracking is a really large community. It is hard to collect trackers starting from the very begining. Considering that Transformer-based architectures now show dominant performnace, we collect trackers published after 2021 (including 2021) when the Transformer-based tracker was proposed for the first time. For more classific trackers, the readers are encouraded to look at other repositories such as [this](https://github.com/DavidZhangdw/Visual-Tracking-Development), [this](https://github.com/wangdongdut/Long-term-Visual-Tracking), [this](https://github.com/wangdongdut/Online-Visual-Tracking-SOTA), and [this](https://github.com/foolwood/benchmark_results).
+
+We will try our best to update this repository to include new trackers in time.
 
 * #### How is your repository different from others?
 
@@ -26,8 +28,7 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21, ICCV'21 papers have been added.
-- TODO: CVPR'21, ICML'21, ECCV'20, CVPR'20 papers to be added.
+- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21, ICCV'21, and CVPR'21 papers have been added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
@@ -164,7 +165,6 @@ Note: all papers are listed in the chronological order.
 
 
 
-
 #### `RGB-X Tracking (X as another vision modality)`
 
 * [**CVPR'2024**] ***"OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning***", Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, and Wenqiang Zhang. [[`paper`]](https://arxiv.org/abs/2403.09634)
@@ -197,6 +197,30 @@ Note: all papers are listed in the chronological order.
 
 * [**ICCV'2022**] ***"DepthTrack : Unveiling the Power of RGBD Tracking***", Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, and Joni-Kristian Kämäräinen. [[`paper`]](https://arxiv.org/abs/2108.13962) [[`Code and Dataset`🌟]](https://github.com/xiaozai/DeT)
 
+* [**CVPR'2021**] ***"Learning to Filter: Siamese Relation Network for Robust Tracking***", Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, and Jing Wan. [[`paper`]](https://arxiv.org/abs/2104.00829)
+
+* [**CVPR'2021**] ***"STMTrack: Template-free Visual Tracking with Space-time Memory Networks***", Zhihong Fu, Qingjie Liu, Zehua Fu, and Yunhong Wang. [[`paper`]](https://arxiv.org/abs/2104.00324) [[`Code`🌟]](https://github.com/fzh0917/STMTrack)
+
+* [**CVPR'2021**] ***"Transformer Tracking***", Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2103.15436) [[`Code`🌟]](https://github.com/chenxin-dlut/TransT)
+
+* [**CVPR'2021**] ***"LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search***", Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2104.14545) [[`Code`🌟]](https://github.com/researchmm/LightTrack)
+
+* [**CVPR'2021**] ***"Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation***", Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, and Xiaoyun Yang. [[`paper`]](https://arxiv.org/abs/2012.06815) [[`Code`🌟]](https://github.com/MasterBin-IIAU/AlphaRefine)
+
+* [**CVPR'2021**] ***"Graph Attention Tracking***", Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, and Chunhua Shen. [[`paper`]](https://arxiv.org/abs/2011.11204) [[`Code`🌟]](https://github.com/ohhhyeahhh/SiamGAT)
+
+* [**CVPR'2021**] ***"Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking***", Ning Wang, Wengang Zhou, Jie Wang, and Houqaing Li. [[`paper`]](https://arxiv.org/abs/2103.11681) [[`Code`🌟]](https://github.com/594422814/TransformerTrack)
+
+* [**CVPR'2021**] ***"Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy***", Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, and Zhaoxiang Zhang. [[`paper`]](https://arxiv.org/abs/2104.12041) [[`Code`🌟]](https://github.com/hqucv/dmtrack)
+
+* [**CVPR'2021**] ***"CapsuleRRT: Relationships-Aware Regression Tracking via Capsules***", Ding Ma and Xiangqian Wu. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)
+
+* [**CVPR'2021**] ***"CapsuleRRT: Relationships-Aware Regression Tracking via Capsules***", Qiangqiang Wu, Jia Wan, and Antoni B. Chan. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)
+
+* [**CVPR'2021**] ***"IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking***", Shuai Jia, Yibing Song, Chao Ma, and Xiaokang Yang. [[`paper`]](https://arxiv.org/abs/2103.14938) [[`Code`🌟]](https://github.com/VISION-SJTU/IoUattack)
+
+* [**CVPR'2021**] ***"Rotation Equivariant Siamese Networks for Tracking***", Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. [[`paper`]](https://arxiv.org/abs/2012.13078)
+
 
 
 
@@ -223,7 +247,9 @@ Note: all papers are listed in the chronological order.
 
 * [**NeurIPS'2022**] ***"Divert More Attention to Vision-Language Tracking***", Mingzhe Guo, Zhipeng Zhang, Heng Fan, and Liping Jing. [[`paper`]](https://arxiv.org/abs/2207.01076) [[`Code`🌟]](https://github.com/JudasDie/SOTS)
 
+* [**CVPR'2021**] ***"Towards More Flexible and Accurate Object Tracking With Natural Language: Algorithms and Benchmark***", Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, and Feng Wu. [[`paper`]](https://arxiv.org/abs/2103.16746) [[`Dataset`🌟]](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)
 
+* [**CVPR'2021**] ***"Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers***", Qi Feng, Vitaly Ablavsky, Qinxun Bai, and Stan Sclaroff. [[`paper`]](https://arxiv.org/abs/1912.02048) [[`Dataset`🌟]](https://github.com/fredfung007/snlt)
 
 
 
