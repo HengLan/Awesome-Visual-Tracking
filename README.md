@@ -26,8 +26,8 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21 papers have been added.
-- TODO: ICCV'21, CVPR'21, ICML'21, ECCV'20, CVPR'20 papers to be added.
+- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21, ICCV'21 papers have been added.
+- TODO: CVPR'21, ICML'21, ECCV'20, CVPR'20 papers to be added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
@@ -141,7 +141,25 @@ Note: all papers are listed in the chronological order.
 
 * [**NeurIPS'2021**] ***"Do Different Tracking Tasks Require Different Appearance Models?***", Zhongdao Wang, Hengshuang Zhao, Ya-Li Li, Shengjin Wang, Philip Torr, and Luca Bertinetto. [[`paper`]](https://proceedings.neurips.cc/paper_files/paper/2021/file/06997f04a7db92466a2baa6ebc8b872d-Paper.pdf) [[`Code`🌟]](https://zhongdao.github.io/UniTrack/)
 
+* [**ICCV'2021**] ***"Learning Spatio-Temporal Transformer for Visual Tracking***", Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2103.17154) [[`Code`🌟]](https://github.com/researchmm/Stark)
 
+* [**ICCV'2021**] ***"Learn to Match: Automatic Matching Network Design for Visual Tracking***", Zhipeng Zhang, Yihao Liu, Xiao Wang, Bing Li, and Weiming Hu. [[`paper`]](https://arxiv.org/abs/2108.00803) [[`Code`🌟]](https://github.com/JudasDie/SOTS)
+
+* [**ICCV'2021**] ***"High-Performance Discriminative Tracking with Transformers***", Bin Yu, Ming Tang, Linyu Zheng, Guibo Zhu, Jinqiao Wang, Hao Feng, Xuetao Feng, and Hanqing Lu. [[`paper`]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf)
+
+* [**ICCV'2021**] ***"HiFT: Hierarchical Feature Transformer for Aerial Tracking***", Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, and Yiming Li. [[`paper`]](https://arxiv.org/abs/2108.00803) [[`Code`🌟]](https://github.com/vision4robotics/HiFT)
+
+* [**ICCV'2021**] ***"Learning Target Candidate Association to Keep Track of What Not to Track***", Christoph Mayer, Martin Danelljan, Danda Pani Paudel, and Luc Van Gool. [[`paper`]](https://arxiv.org/abs/2103.16556) [[`Code`🌟]](https://github.com/visionml/pytracking)
+
+* [**ICCV'2021**] ***"Saliency-Associated Object Tracking***", Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, and Zhenyu He. [[`paper`]](https://arxiv.org/abs/2108.03637) [[`Code`🌟]](https://github.com/ZikunZhou/SAOT)
+
+* [**ICCV'2021**] ***"Learning to Track Objects from Unlabeled Videos***", Jilai Zheng, Chao Ma, Houwen Peng, and Xiaokang Yang. [[`paper`]](https://arxiv.org/abs/2108.12711) [[`Code`🌟]](https://github.com/VISION-SJTU/USOT)
+
+* [**ICCV'2021**] ***"Transparent Object Tracking Benchmark***", Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2011.10875) [[`Code and Dataset`🌟]](https://hengfan2010.github.io/projects/TOTB/)
+
+* [**ICCV'2021**] ***"Video Annotation for Visual Tracking via Selection and Refinement***", Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, and Xiaoyun Yang. [[`paper`]](https://arxiv.org/abs/2108.03821)
+
+* [**ICCV'2021**] ***"Learning to Adversarially Blur Visual Object Tracking***", Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, and Jianjun Zhao. [[`paper`]](https://arxiv.org/abs/2107.12085) [[`Code`🌟]](https://github.com/tsingqguo/ABA)
 
 
 
@@ -174,6 +192,10 @@ Note: all papers are listed in the chronological order.
 * [**CVPR'2022**] ***"Spiking Transformers for Event-Based Single Object Tracking***", Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang. [[`paper`]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf) [[`Code`🌟]](https://github.com/Jee-King/CVPR2022_STNet)
 
 * [**CVPR'2022**] ***"Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline***", Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, and Xiang Ruan. [[`paper`]](https://arxiv.org/abs/2204.04120) [[`Dataset`🌟]](https://zhang-pengyu.github.io/DUT-VTUAV/)
+
+* [**ICCV'2021**] ***"Object Tracking by Jointly Exploiting Frame and Event Domain***", Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, and Bo Dong. [[`paper`]](https://arxiv.org/abs/2109.09052)
+
+* [**ICCV'2022**] ***"DepthTrack : Unveiling the Power of RGBD Tracking***", Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, and Joni-Kristian Kämäräinen. [[`paper`]](https://arxiv.org/abs/2108.13962) [[`Code and Dataset`🌟]](https://github.com/xiaozai/DeT)
 
 
 
@@ -231,6 +253,10 @@ Note: all papers are listed in the chronological order.
 * [**CVPR'2022**] ***"Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds***", Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, and Zhen Li. [[`paper`]](https://arxiv.org/abs/2203.01730) [[`Code`🌟]](https://github.com/Ghostish/Open3DSOT)
 
 * [**NeurIPS'2021**] ***"3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds***", Le Hui, Lingpeng Wang, Mingmei Cheng, Jin Xie, and Jian Yang. [[`paper`]](https://arxiv.org/abs/2111.04426)
+
+* [**ICCV'2021**] ***"MLVSNet: Multi-level Voting Siamese Network for 3D Visual Tracking***", Zhoutao Wang, Qian Xie, Yu-Kun Lai, Jing Wu, Kun Long, and Jun Wang. [[`paper`]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.pdf)
+
+* [**ICCV'2021**] ***"Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds***", Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, and Shuguang Cui. [[`paper`]](https://arxiv.org/abs/2108.04728) [[`Code`🌟]](https://github.com/Ghostish/Open3DSOT)
 
 
 
