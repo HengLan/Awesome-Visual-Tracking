@@ -27,9 +27,6 @@ There are already some excellent repositories related to visual tracking. This r
 
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
-## Log
-- NeurIPS'24, ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21, ICCV'21, and CVPR'21 papers have been added.
-
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
   
@@ -303,13 +300,13 @@ Note: all papers are listed in the chronological order.
 
 We draw some inspirations from the following excellent repositories (thanks!):
 
-*[Visual Tracking Development](https://github.com/DavidZhangdw/Visual-Tracking-Development)
+* [Visual Tracking Development](https://github.com/DavidZhangdw/Visual-Tracking-Development)
 
-*[Long-term Visual Tracking](https://github.com/wangdongdut/Long-term-Visual-Tracking)
+* [Long-term Visual Tracking](https://github.com/wangdongdut/Long-term-Visual-Tracking)
 
-*[Online Visual Tracking-SOTA](https://github.com/wangdongdut/Online-Visual-Tracking-SOTA)
+* [Online Visual Tracking-SOTA](https://github.com/wangdongdut/Online-Visual-Tracking-SOTA)
 
-*[Visual Tracking Paper List](https://github.com/foolwood/benchmark_results)
+* [Visual Tracking Paper List](https://github.com/foolwood/benchmark_results)
 
-*[Transformer Tracking](https://github.com/Little-Podi/Transformer_Tracking)
+* [Transformer Tracking](https://github.com/Little-Podi/Transformer_Tracking)
 
