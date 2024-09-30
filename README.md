@@ -43,7 +43,15 @@ Note: all papers are listed in the chronological order.
 
 
 #### `Generic Tracking (or RGB-only Tracking)`
-  
+
+* [**NeurIPS'2024**] ***"DeTrack: In-model Latent Denoising Learning for Visual Object Tracking"***, Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, and Wenqiang Zhang.
+
+* [**NeurIPS'2024**] ***"VastTrack: Vast Category Visual Object Tracking"***, Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, and Libo Zhang. [[`paper`]](https://arxiv.org/abs/2403.03493) [[`Dataset`🌟]](https://github.com/HengLan/VastTrack)
+
+* [**NeurIPS'2024**] ***"Beyond Accuracy: Tracking more like Human through Visual Search***", Dailing Zhang, Shiyu Hu, Xiaokun Feng, Xuchen Li, Meiqi Wu, Jing Zhang, and Kaiqi Huang. 
+
+* [**NeurIPS'2024**] ***"WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark"***, Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, and Yanfeng Wang. [[`paper`]](https://arxiv.org/abs/2405.19818) [[`Dataset`🌟]](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)
+
 * [**ECCV'2024**] ***"Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks"***, Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, and Shijie Zhou. [[`paper`]](https://arxiv.org/abs/2402.17976)
 
 * [**ECCV'2024**] ***"Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers***", Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu. [[`paper`]](https://arxiv.org/pdf/2407.08394)
@@ -167,6 +175,8 @@ Note: all papers are listed in the chronological order.
 
 #### `RGB-X Tracking (X as another vision modality)`
 
+* [**NeurIPS'2024**] ***"Revisiting motion information for RGB-Event tracking with MOT philosophy***", Tianlu Zhang, Kurt Debattista, Qiang Zhang, guiguang ding, and Jungong Han.
+
 * [**CVPR'2024**] ***"OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning***", Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, and Wenqiang Zhang. [[`paper`]](https://arxiv.org/abs/2403.09634)
 
 * [**CVPR'2024**] ***"Single-Model and Any-Modality for Video Object Tracking***", Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, and Rongrong Ji. [[`paper`]](https://arxiv.org/abs/2311.15851)
@@ -227,6 +237,10 @@ Note: all papers are listed in the chronological order.
 
 
 #### `Vision-Language Tracking`
+
+* [**NeurIPS'2024**] ***"MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts***", Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, and Kaiqi Huang.
+
+* [**NeurIPS'2024**] ***"ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model***", Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Yang Li, Chenhui Li, and Changbo Wang. 
 
 * [**ECCV'2024**] ***"SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild***", Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, and Jun Liu. 
   [paper] [[`Dataset`🌟]](https://github.com/sutdcv/SemTrack?tab=readme-ov-file)
