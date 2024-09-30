@@ -28,7 +28,7 @@ There are already some excellent repositories related to visual tracking. This r
 We aim to update this repository whenever we know papers accepted/published from the avenues where we collect papers. Most likely, we will update it after the decision of a certain conference is released or when we see a paper published in the related journals.
 
 ## Log
-- ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21, ICCV'21, and CVPR'21 papers have been added.
+- NeurIPS'24, ECCV'24, ICML'24, CVPR'24, ICLR'24, NeurIPS'23, ICCV'23, CVPR'2023, NeurIPS'22, ECCV'22, CVPR'22, NeurIPS'21, ICCV'21, and CVPR'21 papers have been added.
 
 ## Content
 - [Generic Tracking](#generic-tracking-or-rgb-only-tracking)
@@ -56,7 +56,7 @@ Note: all papers are listed in the chronological order.
 
 * [**ECCV'2024**] ***"Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers***", Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, and Jun Liu. [[`paper`]](https://arxiv.org/pdf/2407.08394)
 
-* [**ECCV'2024**] ***"Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking***", Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning. [paper]
+* [**ECCV'2024**] ***"Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking***", Jikai Zheng, Mingjiang Liang, Shaoli Huang, and Jifeng Ning. [[`paper`]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04168.pdf)
 
 * [**ECCV'2024**] ***"Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance***", Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](https://arxiv.org/abs/2403.05231) [[`Code`🌟]](https://github.com/LitingLin/LoRAT)
 
@@ -274,7 +274,7 @@ Note: all papers are listed in the chronological order.
   [[`paper`]](https://arxiv.org/pdf/2408.02049)
   
 * [**ECCV'2024**] ***"Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training***", Qiangqiang Wu, Yan Xia, Jia Wang, and Antoni B Chan.
-  [paper]
+  [[`paper`]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01900.pdf)
 
 * [**ICLR'2024**] ***"Towards Category Unification of 3D Single Object Tracking on Point Clouds***", Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, and Fei Xie. [[`paper`]](https://arxiv.org/abs/2401.11204)
 
@@ -299,6 +299,17 @@ Note: all papers are listed in the chronological order.
 * [**ICCV'2021**] ***"Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds***", Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, and Shuguang Cui. [[`paper`]](https://arxiv.org/abs/2108.04728) [[`Code`🌟]](https://github.com/Ghostish/Open3DSOT)
 
 
-
-
 ## Acknowledgements
+
+We draw some inspirations from the following excellent repositories (thanks!):
+
+*[Visual Tracking Development](https://github.com/DavidZhangdw/Visual-Tracking-Development)
+
+*[Long-term Visual Tracking](https://github.com/wangdongdut/Long-term-Visual-Tracking)
+
+*[Online Visual Tracking-SOTA](https://github.com/wangdongdut/Online-Visual-Tracking-SOTA)
+
+*[Visual Tracking Paper List](https://github.com/foolwood/benchmark_results)
+
+*[Transformer Tracking](https://github.com/Little-Podi/Transformer_Tracking)
+
