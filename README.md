@@ -172,7 +172,7 @@ Note: all papers are listed in the chronological order.
 
 #### `RGB-X Tracking (X as another vision modality)`
 
-* [**NeurIPS'2024**] ***"Revisiting motion information for RGB-Event tracking with MOT philosophy***", Tianlu Zhang, Kurt Debattista, Qiang Zhang, guiguang ding, and Jungong Han.
+* [**NeurIPS'2024**] ***"Revisiting motion information for RGB-Event tracking with MOT philosophy***", Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, and Jungong Han.
 
 * [**CVPR'2024**] ***"OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning***", Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, and Wenqiang Zhang. [[`paper`]](https://arxiv.org/abs/2403.09634)
 
