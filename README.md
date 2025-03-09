@@ -41,7 +41,15 @@ Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
 
-* [**CVPR'2025**] ***"A Distractor-Aware Memory for Visual Object Tracking with SAM2"***, Jovana Videnovic, Alan Lukezic, and Matej Kristan. [[`paper`]]([https://arxiv.org/abs/2403.03493](https://arxiv.org/abs/2411.17576)) [[`Dataset`🌟]]([https://github.com/HengLan/VastTrack](https://github.com/jovanavidenovic/DAM4SAM))
+* [**CVPR'2025**] ***"Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking"***, Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, and Shuxiang Song.
+
+* [**CVPR'2025**] ***"Autoregressive Sequential Pretraining for Visual Tracking"***, Shiyi Liang, Yifan Bai, Yihong Gong, and Xing Wei.
+  
+* [**CVPR'2025**] ***"SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking"***, Wenrui Cai, Qingjie Liu, and Yunhong Wang.
+  
+* [**CVPR'2025**] ***"Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking"***, You Wu, Xucheng Wang, Xiangyang Yang, Mengyuan Liu, Dan Zeng, Hengzhou Ye, and Shuiwang Li.
+
+* [**CVPR'2025**] ***"A Distractor-Aware Memory for Visual Object Tracking with SAM2"***, Jovana Videnovic, Alan Lukezic, and Matej Kristan. [[`paper`]]([https://arxiv.org/abs/2403.03493](https://arxiv.org/abs/2411.17576)) [[`Code`🌟]]([https://github.com/HengLan/VastTrack](https://github.com/jovanavidenovic/DAM4SAM))
 
 * [**NeurIPS'2024**] ***"DeTrack: In-model Latent Denoising Learning for Visual Object Tracking"***, Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, and Wenqiang Zhang.
 
@@ -174,6 +182,12 @@ Note: all papers are listed in the chronological order.
 
 #### `RGB-X Tracking (X as another vision modality)`
 
+* [**CVPR'2025**] ***"Exploring Historical Information for RGBE Visual Tracking with Mamba***", Jiqing Zhang, Yang Wang, Huilin Ge, Qianchen Xia, Baocai Yin, and Xin Yang.
+
+* [**CVPR'2025**] ***"MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking***", Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, and Jianan Li.
+
+* [**CVPR'2025**] ***"PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking***", Zekai Shao, Yufan Hu, Bin Fan, and Hongmin Liu.
+  
 * [**NeurIPS'2024**] ***"Revisiting motion information for RGB-Event tracking with MOT philosophy***", Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, and Jungong Han.
 
 * [**CVPR'2024**] ***"OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning***", Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, and Wenqiang Zhang. [[`paper`]](https://arxiv.org/abs/2403.09634)
@@ -236,6 +250,14 @@ Note: all papers are listed in the chronological order.
 
 
 #### `Vision-Language Tracking`
+
+* [**CVPR'2025**] ***"DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking***", Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, and Zhipeng Zhang.
+
+* [**CVPR'2025**] ***"MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking***", Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, and Zhenyu He.
+
+* [**CVPR'2025**] ***"JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems***", Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, and Xuelong Li.
+  
+* [**CVPR'2025**] ***"Dynamic Updates for Language Adaptation in Visual-Language Tracking***", Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, and Shuxiang Song.
 
 * [**NeurIPS'2024**] ***"MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts***", Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, and Kaiqi Huang.
 
