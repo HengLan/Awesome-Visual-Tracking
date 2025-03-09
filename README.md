@@ -41,6 +41,8 @@ Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
 
+* [**CVPR'2025**] ***"A Distractor-Aware Memory for Visual Object Tracking with SAM2"***, Jovana Videnovic, Alan Lukezic, and Matej Kristan. [[`paper`]]([https://arxiv.org/abs/2403.03493](https://arxiv.org/abs/2411.17576)) [[`Dataset`🌟]]([https://github.com/HengLan/VastTrack](https://github.com/jovanavidenovic/DAM4SAM))
+
 * [**NeurIPS'2024**] ***"DeTrack: In-model Latent Denoising Learning for Visual Object Tracking"***, Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, and Wenqiang Zhang.
 
 * [**NeurIPS'2024**] ***"VastTrack: Vast Category Visual Object Tracking"***, Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, and Libo Zhang. [[`paper`]](https://arxiv.org/abs/2403.03493) [[`Dataset`🌟]](https://github.com/HengLan/VastTrack)
