@@ -49,7 +49,7 @@ Note: all papers are listed in the chronological order.
   
 * [**CVPR'2025**] ***"Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking"***, You Wu, Xucheng Wang, Xiangyang Yang, Mengyuan Liu, Dan Zeng, Hengzhou Ye, and Shuiwang Li.
 
-* [**CVPR'2025**] ***"A Distractor-Aware Memory for Visual Object Tracking with SAM2"***, Jovana Videnovic, Alan Lukezic, and Matej Kristan. [[`paper`]]([https://arxiv.org/abs/2403.03493](https://arxiv.org/abs/2411.17576)) [[`Code`🌟]]([https://github.com/HengLan/VastTrack](https://github.com/jovanavidenovic/DAM4SAM))
+* [**CVPR'2025**] ***"A Distractor-Aware Memory for Visual Object Tracking with SAM2"***, Jovana Videnovic, Alan Lukezic, and Matej Kristan. [[`paper`]](https://arxiv.org/abs/2411.17576) [[`Code`🌟]](https://github.com/jovanavidenovic/DAM4SAM)
 
 * [**NeurIPS'2024**] ***"DeTrack: In-model Latent Denoising Learning for Visual Object Tracking"***, Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, and Wenqiang Zhang.
 
