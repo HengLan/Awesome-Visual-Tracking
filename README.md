@@ -41,6 +41,8 @@ Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
 
+* [**ICML'2025**] ***"Efficient Motion Prompt Learning for Robust Visual Tracking"***, Jie Zhao, Xin Chen, Yongsheng Yuan, Michael Felsberg, Dong Wang, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2505.16321) [[`Code`🌟]](https://github.com/zj5559/Motion-Prompt-Tracking)
+
 * [**CVPR'2025**] ***"Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking"***, Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, and Shuxiang Song.
 
 * [**CVPR'2025**] ***"Autoregressive Sequential Pretraining for Visual Tracking"***, Shiyi Liang, Yifan Bai, Yihong Gong, and Xing Wei.
@@ -181,6 +183,8 @@ Note: all papers are listed in the chronological order.
 
 
 #### `RGB-X Tracking (X as another vision modality)`
+
+* [**ICML'2025**] ***"CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features"***, Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, Meiqi Wu, Jing Zhang, Xiaotang Chen, and Kaiqi Huang. [[`paper`]](https://arxiv.org/abs/2505.19434) [[`Code`🌟]](https://github.com/XiaokunFeng/CSTrack)
 
 * [**CVPR'2025**] ***"Exploring Historical Information for RGBE Visual Tracking with Mamba***", Jiqing Zhang, Yang Wang, Huilin Ge, Qianchen Xia, Baocai Yin, and Xin Yang.
 
