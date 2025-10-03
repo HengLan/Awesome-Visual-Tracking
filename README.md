@@ -186,6 +186,8 @@ Note: all papers are listed in the chronological order.
 
 #### `RGB-X Tracking (X as another vision modality)`
 
+* [**ICCV'2025**] ***"SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking"***, Sixian Chan, Zedong Li, Xiaoqin Zhang, Wenhao Li, Shijian Lu, and Chunhua Shen. [[`paper`]](#)
+
 * [**ICML'2025**] ***"CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features"***, Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, Meiqi Wu, Jing Zhang, Xiaotang Chen, and Kaiqi Huang. [[`paper`]](https://arxiv.org/abs/2505.19434) [[`Code`🌟]](https://github.com/XiaokunFeng/CSTrack)
 
 * [**CVPR'2025**] ***"Exploring Historical Information for RGBE Visual Tracking with Mamba***", Jiqing Zhang, Yang Wang, Huilin Ge, Qianchen Xia, Baocai Yin, and Xin Yang.
