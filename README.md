@@ -41,6 +41,8 @@ Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
 
+* [**ICCV'2025**] ***"UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions"***, Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, and Xiaochun Cao. [[`paper`]](https://arxiv.org/abs/2507.00648) [[`Code`🌟]](https://github.com/Z-Z188/UMDATrack)
+
 * [**ICML'2025**] ***"Efficient Motion Prompt Learning for Robust Visual Tracking"***, Jie Zhao, Xin Chen, Yongsheng Yuan, Michael Felsberg, Dong Wang, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2505.16321) [[`Code`🌟]](https://github.com/zj5559/Motion-Prompt-Tracking)
 
 * [**CVPR'2025**] ***"Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking"***, Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, and Shuxiang Song.
