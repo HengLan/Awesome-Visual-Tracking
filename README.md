@@ -41,6 +41,16 @@ Note: all papers are listed in the chronological order.
 
 #### `Generic Tracking (or RGB-only Tracking)`
 
+* [**NeurIPS'2025**] ***"LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers"***, Liting Lin, Heng Fan, Zhipeng Zhang, Yuqing Huang, Yaowei Wang, Yong Xu, and Haibin Ling. [[`paper`]](#) [[`Code`🌟]](#)
+  
+* [**ICCV'2025**] ***"Is Tracking really more challenging in First Person Egocentric Vision?"***, Matteo Dunnhofer, Zaira Manigrasso, and Christian Micheloni. [[`paper`]](https://arxiv.org/abs/2507.16015) [[`Code`🌟]](https://github.com/LingyiHongfd/CompressTracker)
+  
+* [**ICCV'2025**] ***"General Compression Framework for Efficient Transformer Object Tracking"***, Lingyi Hong, Jinglun Li, Xinyu Zhou, Shilin Yan, Pinxue Guo, Kaixun Jiang, Zhaoyu Chen, Shuyong Gao, Runze Li, Xingdong Sheng, Wei Zhang, Hong Lu, and Wenqiang Zhang. [[`paper`]](https://arxiv.org/abs/2409.17564) [[`Code`🌟]](https://github.com/LingyiHongfd/CompressTracker)
+  
+* [**ICCV'2025**] ***"CAT: A Unified Click-and-Track Framework for Realistic Tracking"***, Yongsheng Yuan, Jie Zhao, Dong Wang, and Huchuan Lu. [[`paper`]](#)
+
+* [**ICCV'2025**] ***"Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking"***, Qiangqiang Wu, Yi Yu, Chenqi Kong, Ziquan Liu, Jia Wan, Haoliang Li, Alex Kot, and Antoni Chan. [[`paper`]](https://arxiv.org/abs/2507.07483)
+
 * [**ICCV'2025**] ***"UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions"***, Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, and Xiaochun Cao. [[`paper`]](https://arxiv.org/abs/2507.00648) [[`Code`🌟]](https://github.com/Z-Z188/UMDATrack)
 
 * [**ICML'2025**] ***"Efficient Motion Prompt Learning for Robust Visual Tracking"***, Jie Zhao, Xin Chen, Yongsheng Yuan, Michael Felsberg, Dong Wang, and Huchuan Lu. [[`paper`]](https://arxiv.org/abs/2505.16321) [[`Code`🌟]](https://github.com/zj5559/Motion-Prompt-Tracking)
@@ -186,6 +196,10 @@ Note: all papers are listed in the chronological order.
 
 #### `RGB-X Tracking (X as another vision modality)`
 
+* [**NeurIPS'2025**] ***"Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm"***, Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, and Josef Kittler. [[`paper`]](https://www.arxiv.org/abs/2509.24741)
+
+* [**ICCV'2025**] ***"What You Have is What You Track: Adaptive and Robust Multimodal Tracking"***, Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Pani Paudel, Luc Gool, Radu Timofte, and Zongwei Wu. [[`paper`]](#)
+
 * [**ICCV'2025**] ***"SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking"***, Sixian Chan, Zedong Li, Xiaoqin Zhang, Wenhao Li, Shijian Lu, and Chunhua Shen. [[`paper`]](#)
 
 * [**ICML'2025**] ***"CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features"***, Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, Meiqi Wu, Jing Zhang, Xiaotang Chen, and Kaiqi Huang. [[`paper`]](https://arxiv.org/abs/2505.19434) [[`Code`🌟]](https://github.com/XiaokunFeng/CSTrack)
@@ -259,6 +273,9 @@ Note: all papers are listed in the chronological order.
 
 #### `Vision-Language Tracking`
 
+* [**ICCV'2025**] ***"ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking***", Xiaokun Feng, Shiyu Hu, Xuchen Li, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, and Kaiqi Huang. 
+  [[`paper`]](https://arxiv.org/abs/2507.19875) [[`Code`🌟]](https://github.com/XiaokunFeng/ATCTrack)
+
 * [**CVPR'2025**] ***"DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking***", Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, and Zhipeng Zhang.
 
 * [**CVPR'2025**] ***"MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking***", Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, and Zhenyu He.
@@ -299,6 +316,8 @@ Note: all papers are listed in the chronological order.
 
 
 #### `Lidar-based 3D Object Tracking`
+* [**ICCV'2025**] ***"GSOT3D: Towards Generic 3D Single Object Tracking in the Wild***", Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, and Libo Zhang. [[`paper`]](https://arxiv.org/abs/2412.02129) [[`Code`🌟]](https://github.com/ailovejinx/GSOT3D)
+
 * [**ECCV'2024**] ***"3D Single-object Tracking in Point Clouds with High Temporal Variation***", Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, and Jiaqi Yang.
   [[`paper`]](https://arxiv.org/pdf/2408.02049)
   
